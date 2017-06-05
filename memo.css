@@ -1,0 +1,22 @@
+body {
+	background-color: #49493E;
+	margin-left: auto;
+	margin-right: auto;
+	width: 35%;
+}
+
+h1, h2 {
+	font-family: 'Indie Flower', cursive; 
+	color: #ffffff;
+}
+
+td {
+	border: solid rgba(255, 255, 255, 0.1) 2px;
+}
+
+img {
+	width: 100px; 
+	height: 100px; 
+	object-fit: cover;
+	visibility: hidden;
+}
